@@ -1,0 +1,29 @@
+.x-mask-msg.x-loadingscreen .x-mask-msg-inner .x-mask-msg-text {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.x-loadingscreen-icon {
+	background-image: url('../resources/images/hello_world.png') !important;
+	height: 200px;
+	width: 300px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+.x-mask.x-loadingscreen {
+	background-color: transparent;
+}
+
+.x-mask-msg.x-loadingscreen {
+	border: none;
+	background-color: transparent;
+}
+
+.en_US {
+	background-image: url('../resources/images/en_US.png') !important;
+}
+
+.zh_CN {
+	background-image: url('../resources/images/zh_CN.png') !important;
+}
